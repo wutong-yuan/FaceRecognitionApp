@@ -14,8 +14,8 @@ This image recognition app using a Machine Learning API from Clarifai and allow 
 3. Paste the URL to the white box
 4. Click “Detect”
 
-![](Sample2.png)
 ![](Sample1.png)
+![](Sample2.png)
 
 ## Demo
 
