@@ -19,7 +19,7 @@ This image recognition app using a Machine Learning API from Clarifai and allow 
 
 ## Demo
 
-![](Demo.mov)
+![](Demo.gif)
 
 ## Want to build your own?
 
