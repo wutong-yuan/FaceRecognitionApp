@@ -4,7 +4,7 @@ Have fun to detect faces with our face recognition application!
 
 ## Summary
 
-This image recognition app used a Machine Learning API from Clarifai and allow users to register, log in and detect pictures from uploaded URLs.  
+This image recognition app uses a Machine Learning API from Clarifai and allows users to register, log in and detect pictures from uploaded URLs.  
 
 
 ## Sample display
